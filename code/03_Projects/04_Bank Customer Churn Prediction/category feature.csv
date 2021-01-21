@@ -1,0 +1,8 @@
+Education_Level,,,Marital_Status,,,Income_Category,,,Card_Category,,,Attrition_Flag
+Unknown,0,,Unknown,0,,Unknown,0,,Blue,0,,Existing Customer
+Uneducated,1,,Divorced,1,,Less than $40K,1,,Silver,1,,Attrited Customer
+High School,2,,Married,2,,$40K - $60K,2,,Gold,2,,
+College,3,,Single,3,,$60K - $80K,3,,Platinum,3,,
+Graduate,4,,,,,$80K - $120K,4,,,,,
+Post-Graduate,5,,,,,$120K +,5,,,,,
+Doctorate,6,,,,,,,,,,,
